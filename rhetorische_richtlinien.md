@@ -31,10 +31,8 @@ internen Anzeige gebracht. Beispiele hierzu sind u.a:
     3. f0rb1dd0n
 
 # Anhang
+![kaputze](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QLfVbZ9MeaB6e5j-952DOayRKZodGAIuuCbh7_oW_4Ho082T_g | width=100)
 
-[1]
-![kaputze](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QLfVbZ9MeaB6e5j-952DOayRKZodGAIuuCbh7_oW_4Ho082T_g)
-
-![code](https://1.bp.blogspot.com/-grZ1iqqZyrk/VysQmdK0aPI/AAAAAAAAn9U/HYFNfNPcSvEbQu-7Wdt5zbzKNyFbnsBeACLcB/s1600-e20/email-password-hack.jpg)
+![code](https://1.bp.blogspot.com/-grZ1iqqZyrk/VysQmdK0aPI/AAAAAAAAn9U/HYFNfNPcSvEbQu-7Wdt5zbzKNyFbnsBeACLcB/s1600-e20/email-password-hack.jpg | width=100)
 
 ![guy fox](https://pbs.twimg.com/profile_images/378800000568141537/a55df351027360f1b997f222bfc86ee1.jpeg)
