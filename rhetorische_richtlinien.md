@@ -21,9 +21,9 @@ Wörter) zueinander aufweisen:
 Von dem Gebrauch lexikographischer Permutationen ist abzusehen. Ein besonders schwerer
 Regelbruch liegt hier u.a. bei Verwendung von Leetspeak vor und wird ausnahmslos zur
 internen Anzeige gebracht. Exemplarisch:
-    1. h4Xx0r
-    2. 1337
-    3. f0rb1dd0n
+1. h4Xx0r
+2. 1337
+3. f0rb1dd0n
 	
 ## Soziale-Netzwerke und Messenger
 Profilbilder, die eine falsche, lächerliche Realität widerspiegeln oder in erkenntlicher Relation mit einer serientypischen "Hacker"-Darstellung stehen, sind ebenfalls zu vermeiden. Beispiele dazu finden sich im Anhang [1].
