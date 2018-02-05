@@ -25,3 +25,4 @@ Regelbruch liegt hier u.a. bei Verwendung von Leetspeak vor und wird ausnahmslos
 internen Anzeige gebracht. Beispiele hierzu sind u.a:
     1. h4Xx0r
     2. 1337
+    3. f0rb1dd0n
