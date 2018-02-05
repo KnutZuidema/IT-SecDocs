@@ -33,8 +33,8 @@ internen Anzeige gebracht. Beispiele hierzu sind u.a:
 # Anhang
 
 [1]
-![kaputze](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QLfVbZ9MeaB6e5j-952DOayRKZodGAIuuCbh7_oW_4Ho082T_g =200x200)
+![kaputze](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QLfVbZ9MeaB6e5j-952DOayRKZodGAIuuCbh7_oW_4Ho082T_g)
 
-![code](https://1.bp.blogspot.com/-grZ1iqqZyrk/VysQmdK0aPI/AAAAAAAAn9U/HYFNfNPcSvEbQu-7Wdt5zbzKNyFbnsBeACLcB/s1600-e20/email-password-hack.jpg =200x200)
+![code](https://1.bp.blogspot.com/-grZ1iqqZyrk/VysQmdK0aPI/AAAAAAAAn9U/HYFNfNPcSvEbQu-7Wdt5zbzKNyFbnsBeACLcB/s1600-e20/email-password-hack.jpg)
 
-![guy fox](https://pbs.twimg.com/profile_images/378800000568141537/a55df351027360f1b997f222bfc86ee1.jpeg =200x200)
+![guy fox](https://pbs.twimg.com/profile_images/378800000568141537/a55df351027360f1b997f222bfc86ee1.jpeg)
