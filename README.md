@@ -1,2 +1,2 @@
 # IT-SecDocs
-[Rhetorische Richtlinien](../master/rhetorische_richtlinien.md)
+[Rhetorische Richtlinien](rhetorische_richtlinien.md)
