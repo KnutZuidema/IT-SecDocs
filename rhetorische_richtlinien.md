@@ -1,17 +1,23 @@
 # Rhetorische Richtlinien
 Folgende Richtlinien definieren Begriffe, die von Mitgliedern der It-Sec Gruppe
-in alltäglichen Konversationen stets zu vermeiden sind und deren Gebrauch nur in offensichtlich
-spöttischer oder satirischer Form Anwendung finden darf.
+in alltäglichen Konversationen stets zu vermeiden sind und deren Gebrauch ausschließlich
+in offensichtlich spöttischer oder satirischer Form Anwendung finden darf:
 
 * Cyber
 * Hacker
+* Crime
 
-Insbesondere dürfen die folgenden Wörter und Wortkombinationen nicht mit o.g. Begriffen
-kombiniert werden und müssen einen, dem Kontext angemessenen lexikalischen Abstand aufweisen:
+Insbesondere dürfen die folgenden Wörter und Wortkompositionen nicht mit o.g. Begriffen
+kombiniert werden und müssen einen, dem Kontext angemessenen Abstand (mindestens aber drei
+Wörter) zueinander aufweisen:
 
 * Krieger
 * Spion
 
-Anmerkungen:
-Die dargestellten Richtlinien und Regeln beziehen sich per Definition auch auf Wortäquivalente
+# Anmerkungen:
+1. Die dargestellten Richtlinien und Regeln beziehen sich per Definition auch auf Wortäquivalente
 in anderen Sprachen.
+
+2. Von dem Gebrauch lexikographischer Permutationen ist abzusehen. Ein besonders schwerer
+Regelbruch liegt hier u.a. bei Verwendung von Leetspeak vor und wird ausnahmslos zur
+internen Anzeige gebracht.
