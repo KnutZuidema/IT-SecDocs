@@ -14,7 +14,7 @@ Wörter) zueinander aufweisen:
 * Krieger
 * Spion
 
-# Anmerkungen:
+# Anmerkungen
 1. Die dargestellten Richtlinien und Regeln beziehen sich per Definition auch auf Wortäquivalente
 in anderen Sprachen.
 
