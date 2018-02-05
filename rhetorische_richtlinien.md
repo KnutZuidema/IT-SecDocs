@@ -2,7 +2,7 @@
 ## Zensurliste
 Folgende Richtlinien definieren Begriffe, die von Mitgliedern der IT-Sec Gruppe
 in alltäglichen Konversationen stets zu vermeiden sind und deren Gebrauch ausschließlich
-in offensichtlich spöttischer oder satirischer Form Anwendung finden darf:
+in offensichtlich spöttischer oder satirischer Form Anwendung findet:
 
 * Cyber
 * Hacker
