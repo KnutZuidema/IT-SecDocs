@@ -13,6 +13,8 @@ Wörter) zueinander aufweisen:
 
 * Krieger
 * Spion
+* War
+* Space
 
 # Anmerkungen
 1. Die dargestellten Richtlinien und Regeln beziehen sich per Definition auch auf Wortäquivalente
@@ -20,4 +22,6 @@ in anderen Sprachen.
 
 2. Von dem Gebrauch lexikographischer Permutationen ist abzusehen. Ein besonders schwerer
 Regelbruch liegt hier u.a. bei Verwendung von Leetspeak vor und wird ausnahmslos zur
-internen Anzeige gebracht.
+internen Anzeige gebracht. Beispiele hierzu sind u.a:
+    1. h4Xx0r
+    2. 1337
