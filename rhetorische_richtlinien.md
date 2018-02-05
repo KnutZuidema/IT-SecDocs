@@ -31,7 +31,7 @@ internen Anzeige gebracht. Beispiele hierzu sind u.a:
     3. f0rb1dd0n
 
 # Anhang
-![kaputze](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QLfVbZ9MeaB6e5j-952DOayRKZodGAIuuCbh7_oW_4Ho082T_g | width=100)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QLfVbZ9MeaB6e5j-952DOayRKZodGAIuuCbh7_oW_4Ho082T_g" width=100 />
 
 ![code](https://1.bp.blogspot.com/-grZ1iqqZyrk/VysQmdK0aPI/AAAAAAAAn9U/HYFNfNPcSvEbQu-7Wdt5zbzKNyFbnsBeACLcB/s1600-e20/email-password-hack.jpg | width=100)
 
