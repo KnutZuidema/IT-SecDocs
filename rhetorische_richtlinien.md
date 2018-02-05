@@ -1,4 +1,4 @@
-# Rhetorische Richtlinien
+# Richtlinien zur Rhetorik und Selbstdarstellung
 Folgende Richtlinien definieren Begriffe, die von Mitgliedern der IT-Sec Gruppe
 in alltäglichen Konversationen stets zu vermeiden sind und deren Gebrauch ausschließlich
 in offensichtlich spöttischer oder satirischer Form Anwendung finden darf:
@@ -16,10 +16,10 @@ Wörter) zueinander aufweisen:
 * War
 * Space
 
-# Social-Networks und Messenger
+## Soziale-Netzwerke und Messenger
 Profilbilder, die eine falsche, lächerliche Realität widerspiegeln oder in erkenntlicher Relation mit einer serientypischen "Hacker"-Darstellung stehen, sind ebenfalls zu vermeiden. Beispiele dazu finden sich im Anhang [1].
 
-# Anmerkungen
+## Anmerkungen
 1. Die dargestellten Richtlinien und Regeln beziehen sich per Definition auch auf Wortäquivalente
 in anderen Sprachen.
 
@@ -30,7 +30,7 @@ internen Anzeige gebracht. Beispiele hierzu sind u.a:
     2. 1337
     3. f0rb1dd0n
 
-# Anhang
+## Anhang
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QLfVbZ9MeaB6e5j-952DOayRKZodGAIuuCbh7_oW_4Ho082T_g" width=200 />
 
 <img src="https://1.bp.blogspot.com/-grZ1iqqZyrk/VysQmdK0aPI/AAAAAAAAn9U/HYFNfNPcSvEbQu-7Wdt5zbzKNyFbnsBeACLcB/s1600-e20/email-password-hack.jpg" width=200 />
